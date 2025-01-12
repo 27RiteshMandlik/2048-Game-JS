@@ -26,14 +26,15 @@
     <a href="https://27riteshmandlik.github.io/2048-Game-JS/" target="_blank">2048 Game - JavaScript</a>.
   </p>
   
-  <h2>Acknowledgments</h2>
-  <p>
-    Inspired by the original 2048 game by Gabriele Cirulli.
-  </p>
+  <h2>Future Improvements</h2>
+  <ul>
+   <li>Mobile Compatibility</li>
+   <li>Save and Resume Game</li>
+   <li>Backend Integration
+</li>
+    
+  </ul>
   
-  <p>
-    Feel free to fork, star, and modify this project! Contributions and suggestions are always welcome.
-  </p>
 </body>
 </html>
-You can use this as a standalone HTML file to display the README content in a styled web page. Let me know if you need further customization!
+
