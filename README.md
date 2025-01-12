@@ -13,4 +13,4 @@ Combine numbers to reach 2048 and beyond!
 Have fun and challenge yourself to achieve the highest score possible.
 <h3>Deployment</h3>
 This game is hosted on GitHub Pages. To play, simply click the link:
-<link href = "2048 Game - JavaScript." />
+2048 Game - JavaScript.
